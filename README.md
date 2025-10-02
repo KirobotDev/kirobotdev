@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=I'm+kirobotdev+%F0%9F%92%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=I'm+xql.dev+%F0%9F%92%8E)](https://git.io/typing-svg)
 
 
 🧽 About Me :
@@ -7,7 +7,7 @@
 
 🍜 Socials :
 ---
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.xql-porfolio.xyz/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram/xql.dev) [![](https://visitcount.itsvg.in/api?id=senju-sh&icon=0&color=0)](https://kirosb.fr/docs.html)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kirosb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram/xql.dev) [![](https://visitcount.itsvg.in/api?id=senju-sh&icon=0&color=0)](https://kirosb.fr/)
 
 💻 Tech Stack :
 ---
