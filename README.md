@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=I'm+xql.dev+%F0%9F%92%8E)](https://git.io/typing-svg)
 
 # My Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/233657223190937601)](https://discord.com/users/233657223190937601)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1356430365774053448)](https://discord.com/users/1356430365774053448)
 
 🧽 About Me :
 ---
