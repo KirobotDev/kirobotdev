@@ -17,6 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=KirobotDev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KirobotDev&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KirobotDev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirobotdev)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirobotdev&theme=github_dark)
 
 ---
