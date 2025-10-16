@@ -7,6 +7,7 @@
 🍜 Socials :
 ---
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kirosb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram/xql.dev) [![](https://visitcount.itsvg.in/api?id=senju-sh&icon=0&color=0)](https://kirosb.fr/)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1356430365774053448)](https://discord.com/users/1356430365774053448)
 
 💻 Tech Stack :
 ---
