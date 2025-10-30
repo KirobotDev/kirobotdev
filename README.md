@@ -18,5 +18,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KirobotDev&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KirobotDev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirobotdev&theme=github_dark)
-
+![](https://komarev.com/ghpvc/?username=kirobotdev&color=blueviolet&style=for-the-badge&label=Profile+Views)
 ---
