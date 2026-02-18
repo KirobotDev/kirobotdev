@@ -8,4 +8,4 @@
 
 - <div> ≧◡≦ But my hobbies are mainly Playing Rivals and Honkai: Star Rail </div>
 
-- <div>I'm Skilled with <img src="image/ts.png" width="20" alt="Typescript"/> Typescript</div>
+- <div>I'm Skilled with <img src="image/ts.png" width="16" alt="Typescript"/> Typescript</div>
