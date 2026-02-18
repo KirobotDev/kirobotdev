@@ -17,7 +17,7 @@
 - 📚 [***kirobotdev/gemini-cli***](https://github.com/kirobotdev/gemini-cli) <br/>
   A fixed gemini cli improve faster response web interface add more feature
 
-<sub> *"Readme inspired by aiko-chan-ai <a href="https://github.com/aiko-chan-ai">aiko-chan-ai</a>* </sub>
+<sub> ***Readme*** **inspired by aiko-chan-ai** <a href="https://github.com/aiko-chan-ai">aiko-chan-ai</a> </sub>
 
 # Discord
 <a href="https://discord.com/users/1356430365774053448"><img src="https://lanyard.cnrad.dev/api/1356430365774053448?bg=1A1C1F&borderRadius=10px&theme=dark&hideActivity=true&showDisplayName=true" /></a>
@@ -29,3 +29,10 @@
 ## Commits
 
 ![github contribution grid snake animation](https://github.com/KirobotDev/Read/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/KirobotDev/Read/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+## Thank you my kit friends and all the members of Kiro
+
+<a href="https://github.com/kitbot14"><img src="image/kit.png" width="50" alt="kit" style="border-radius: 20px; margin-left: 10px;"/></a>
+<a href="https://discord.com/users/183682134840442893"><img src="image/rokma.png" width="50" alt="rokma" style="border-radius: 20px; margin-left: 10px;"/></a>
+<a href="https://discord.com/users/1252976884061438034"><img src="image/yaomo.png" width="50" alt="yaomo" style="border-radius: 20px; margin-left: 10px;"/></a>
+<a href="https://discord.com/users/1403250214483263578"><img src="image/ovr.png" width="50" alt="ovr" style="border-radius: 20px; margin-left: 10px;"/></a>
