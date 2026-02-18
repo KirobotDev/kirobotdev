@@ -1,4 +1,9 @@
-<img align="right" width="300" src="image/elysia-chan.png" alt="Elysia Chan" />
+<div align="right">
+  <img src="image/elysia-chan.png" width="300" alt="Elysia Chan" />
+  <br/>
+  <br/>
+  <img src="image/ely.gif" alt="Ely GIF" />
+</div>
 <img src="image/aboutsMe.png" width="500" alt="About Me" style="border-radius: 20px; margin-left: 10px;" />
 
 - 🇹🇭 Stuedent From Thailand
