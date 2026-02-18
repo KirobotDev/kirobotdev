@@ -43,4 +43,6 @@
 
 ## Actif server 
 
-<a href="https://discord.gg/vD7dCUxZpR"><img src="image/kiro.png" width="50" alt="kiro" position="center"/></a>
+<div align="center">
+  <a href="https://discord.gg/vD7dCUxZpR"><img src="image/kiro.png" width="50" alt="kiro" /></a>
+</div>
