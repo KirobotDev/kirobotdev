@@ -1,6 +1,6 @@
 <img align="right" src="image/side_panel.gif" alt="Side Panel" />
 <img src="image/aboutsMe.png" width="500" alt="About Me" style="border-radius: 20px; margin-left: 10px;" />
-<img src="image/aboutsMe.png" width="500" alt="About Me" style="border-radius: 20px; margin-left: 10px;" />
+
 
 - 🇹🇭 Stuedent From Thailand
 
