@@ -1,3 +1,4 @@
+<img align="right" width="200" src="image/elysia-chan.png" alt="Elysia Chan" style="border-radius: 20px;" />
 <img src="image/aboutsMe.png" width="500" alt="About Me" style="border-radius: 20px; margin-left: 10px;" />
 
 - 🇹🇭 Stuedent From Thailand
