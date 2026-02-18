@@ -6,5 +6,5 @@
 
 - I am mainly skilled <img src="image/ts.png" width="16" alt="Typescript"/> Typescript, <img src="image/cpp.png" width="16" alt="cpp" style="position: relative; top: 10px;"/> C++, <img src="/image/java.png" width="20" alt="java"/> Java, <img src="/image/go.png" width="16" alt="go"> go
 
-- I understand and read very well <img src="/image/cobole.png" width="16" alt="cobole"/> Cobole, <img src="/image/gd.png" width="16" alt="gd"/>GODOT, <img src="image/factor.png" width="30" alt="factor"/>Factor
+- ***I understand and read very well*** <img src="/image/cobole.png" width="16" alt="cobole"/> Cobole, <img src="/image/gd.png" width="16" alt="gd"/>GODOT, <img src="image/factor.png" width="30" alt="factor"/>Factor
 
