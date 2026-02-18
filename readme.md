@@ -30,21 +30,7 @@
 
 ![github contribution grid snake animation](https://github.com/KirobotDev/Read/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/KirobotDev/Read/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-## Thank you my kit friends and all the members of Kiro
-
-<a href="https://github.com/kitbot14"><img src="image/kit.png" width="50" alt="kit" style="border-radius: 20px; margin-left: 10px;"/></a>
-<a href="https://discord.com/users/183682134840442893"><img src="image/rokma.png" width="50" alt="rokma" style="border-radius: 20px; margin-left: 10px;"/></a>
-<a href="https://discord.com/users/1252976884061438034"><img src="image/yaomo.png" width="50" alt="yaomo" style="border-radius: 20px; margin-left: 10px;"/></a>
-<a href="https://discord.com/users/1403250214483263578"><img src="image/ovr.png" width="50" alt="ovr" style="border-radius: 20px; margin-left: 10px;"/></a>
-<a href="https://discord.com/users/1299345697505542227"><img src="image/lrz.png" width="50" alt="lrz" style="border-radius: 20px; margin-left: 10px;"/></a>
-<a href="https://discord.com/users/1173508336063356948"><img src="image/gb.png" width="50" alt="gb" style="border-radius: 20px; margin-left: 10px;"/></a>
-<a href="https://discord.com/users/1358820568580755802"><img src="image/57.png" width="50" alt="57" style="border-radius: 20px; margin-left: 10px;"/></a>
-<a href="https://discord.com/users/1083477939737333830"><img src="image/wilo.png" width="50" alt="wilo" style="border-radius: 20px; margin-left: 10px;"/></a>
-
-<br/>
-
 <h2 align="center">🎧 Vibe of the moment</h2>
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=316oczm3bygnyhnl4yrz5zeb2sd4&count=1&unique=true" width="400" alt="Spotify Recently Played" />
-  <br/>
 </div>
