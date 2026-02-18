@@ -18,6 +18,4 @@
   A fixed gemini cli improve faster response web interface add more feature
 
 # Discord
-<a href="https://discord.com/users/1356430365774053448">
-  <img src="https://lanyard.cnrad.dev/api/1356430365774053448" alt="Discord Status" style="border-radius: 10px;" />
-</a>
+<a href="https://discord.com/users/1356430365774053448"><img src="https://lanyard.cnrad.dev/api/1356430365774053448?bg=1A1C1F&borderRadius=10px&theme=dark&hideActivity=true&showDisplayName=true" /></a>
