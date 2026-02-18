@@ -36,3 +36,4 @@
 <a href="https://discord.com/users/183682134840442893"><img src="image/rokma.png" width="50" alt="rokma" style="border-radius: 20px; margin-left: 10px;"/></a>
 <a href="https://discord.com/users/1252976884061438034"><img src="image/yaomo.png" width="50" alt="yaomo" style="border-radius: 20px; margin-left: 10px;"/></a>
 <a href="https://discord.com/users/1403250214483263578"><img src="image/ovr.png" width="50" alt="ovr" style="border-radius: 20px; margin-left: 10px;"/></a>
+<a href="https://discord.com/users/1299345697505542227"><img src="image/lrz.png" width="50" alt="lrz" style="border-radius: 20px; margin-left: 10px;"/></a>
