@@ -30,9 +30,7 @@
 
 ![github contribution grid snake animation](https://github.com/KirobotDev/Read/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/KirobotDev/Read/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-## Thank you my kit friends and all the members of<div align="center">
-  <a href="https://discord.gg/vD7dCUxZpR"><img src="image/kiro.png" width="50" alt="kiro" /></a>
-</div>
+## Thank you my kit friends and all the members of Kiro
 
 <a href="https://github.com/kitbot14"><img src="image/kit.png" width="50" alt="kit" style="border-radius: 20px; margin-left: 10px;"/></a>
 <a href="https://discord.com/users/183682134840442893"><img src="image/rokma.png" width="50" alt="rokma" style="border-radius: 20px; margin-left: 10px;"/></a>
@@ -42,3 +40,14 @@
 <a href="https://discord.com/users/1173508336063356948"><img src="image/gb.png" width="50" alt="gb" style="border-radius: 20px; margin-left: 10px;"/></a>
 <a href="https://discord.com/users/1358820568580755802"><img src="image/57.png" width="50" alt="57" style="border-radius: 20px; margin-left: 10px;"/></a>
 <a href="https://discord.com/users/1083477939737333830"><img src="image/wilo.png" width="50" alt="wilo" style="border-radius: 20px; margin-left: 10px;"/></a>
+
+<br/>
+
+<h2 align="center">🎧 Vibe du moment</h2>
+<div align="center">
+  <a href="https://open.spotify.com/intl-fr/track/6Dd4EJ2aA81AkWkdDdI3nD">
+    <img src="https://i.scdn.co/image/ab67616d0000b273ce1366f01fa81c2776eb10b1" width="150" style="border-radius: 15px;" alt="Hugo TSR - Fenêtre Sur Rue" />
+  </a>
+  <br/>
+  <p><b>Hugo TSR - Fenêtre Sur Rue</b></p>
+</div>
