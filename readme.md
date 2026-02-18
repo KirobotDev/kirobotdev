@@ -21,3 +21,11 @@
 
 # Discord
 <a href="https://discord.com/users/1356430365774053448"><img src="https://lanyard.cnrad.dev/api/1356430365774053448?bg=1A1C1F&borderRadius=10px&theme=dark&hideActivity=true&showDisplayName=true" /></a>
+
+# My stats:
+
+<p>
+ <a href="/" align="left">
+  <img width="auto" src"https://github-readme.stats.vercel.app/api?username=kirobotdev&theme=dracula&show_icons=true"/>
+  </a>
+</p>
