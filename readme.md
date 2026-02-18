@@ -30,7 +30,9 @@
 
 ![github contribution grid snake animation](https://github.com/KirobotDev/Read/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/KirobotDev/Read/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-## Thank you my kit friends and all the members of Kiro
+## Thank you my kit friends and all the members of<div align="center">
+  <a href="https://discord.gg/vD7dCUxZpR"><img src="image/kiro.png" width="50" alt="kiro" /></a>
+</div>
 
 <a href="https://github.com/kitbot14"><img src="image/kit.png" width="50" alt="kit" style="border-radius: 20px; margin-left: 10px;"/></a>
 <a href="https://discord.com/users/183682134840442893"><img src="image/rokma.png" width="50" alt="rokma" style="border-radius: 20px; margin-left: 10px;"/></a>
