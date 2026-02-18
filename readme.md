@@ -16,7 +16,7 @@
 - 📖 [***kirobotdev/fsk-lang***](https://github.com/kirobotdev/fsk-lang) <br/>
   FSK is a programming language that is compiled to WebAssembly.
 - 📚 [***kirobotdev/gemini-cli***](https://github.com/kirobotdev/gemini-cli) <br/>
-  A fixed gemini cli improve faster response web interface add more feature
+  A fixed gemini cli improve faster response web interface add Good
 
 <sub> ***Readme*** **inspired by aiko-chan-ai** <a href="https://github.com/aiko-chan-ai">aiko-chan-ai</a> </sub>
 
