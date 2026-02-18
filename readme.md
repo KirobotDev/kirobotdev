@@ -24,4 +24,9 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kirobotdev/fsk-lang,kirobotdev/gemini-cli&type=date&legend=top-left)](https://www.star-history.com/#kirobotdev/fsk-lang&kirobotdev/gemini-cli&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=kirobotdev/fsk-lang,kirobotdev/gemini-cli&type=date&legend=top-left)](https://www.star-history.com/
+#kirobotdev/fsk-lang&kirobotdev/gemini-cli&type=date&legend=top-left)
+
+## Commits
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/kirobotdev/kirobotdev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/kirobotdev/kirobotdev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
