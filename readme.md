@@ -1,4 +1,15 @@
-<img align="right" width="300" src="image/elysia-chan.png" alt="Elysia Chan" />
+<table align="right">
+  <tr>
+    <td>
+      <img src="image/elysia-chan.png" width="300" alt="Elysia Chan" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="image/ely.gif" width="300" alt="Ely GIF" style="border-radius: 20px;" />
+    </td>
+  </tr>
+</table>
 <img src="image/aboutsMe.png" width="500" alt="About Me" style="border-radius: 20px; margin-left: 10px;" />
 
 - 🇹🇭 Stuedent From Thailand
