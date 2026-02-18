@@ -1,5 +1,6 @@
 <img src="image/aboutsMe.png" width="500" alt="About Me" style="border-radius: 20px; margin-left: 10px;" />
-<img src="image/elysia-chan.png" width="500" alt="About Me" style="border-radius: 20px; margin-right: 10px;" />
+<img src="image/elysia-chan.png" width="500" alt="elysia" style="border-radius: 20px; margin-right: 10px;" />
+
 - 🇹🇭 Stuedent From Thailand
 
 - ≧◡≦ But my hobbies are mainly Playing Rivals and Honkai: Star Rail
