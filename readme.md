@@ -40,3 +40,4 @@
 <a href="https://discord.com/users/1173508336063356948"><img src="image/gb.png" width="50" alt="gb" style="border-radius: 20px; margin-left: 10px;"/></a>
 <a href="https://discord.com/users/1358820568580755802"><img src="image/57.png" width="50" alt="57" style="border-radius: 20px; margin-left: 10px;"/></a>
 <a href="https://discord.com/users/1083477939737333830"><img src="image/wilo.png" width="50" alt="wilo" style="border-radius: 20px; margin-left: 10px;"/></a>
+<a href="https://discord.com/users/1393019545522012271"><img src="image/yut.png" width="50" alt="yut" style="border-radius: 20px; margin-left: 10px;"/></a>
