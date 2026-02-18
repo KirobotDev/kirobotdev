@@ -26,6 +26,6 @@
 
 <p>
  <a href="/" align="left">
-  <img width="auto" src"https://github-readme.stats.vercel.app/api?username=kirobotdev&theme=dracula&show_icons=true"/>
+  <img width="auto" src"https://github-readme-stats.vercel.app/api?username=kirobotdev&theme=dracula&show_icons=true"/>
   </a>
 </p>
