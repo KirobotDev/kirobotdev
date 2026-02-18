@@ -45,9 +45,7 @@
 
 <h2 align="center">🎧 Vibe du moment</h2>
 <div align="center">
-  <a href="https://open.spotify.com/intl-fr/track/6Dd4EJ2aA81AkWkdDdI3nD">
-    <img src="https://i.scdn.co/image/ab67616d0000b273ce1366f01fa81c2776eb10b1" width="150" style="border-radius: 15px;" alt="Hugo TSR - Fenêtre Sur Rue" />
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=316oczm3bygnyhnl4yrz5zeb2sd4&count=1&unique=true" width="400" alt="Spotify Recently Played" />
   <br/>
-  <p><b>Hugo TSR - Fenêtre Sur Rue</b></p>
+  <p><b>Check my recently played on Spotify</b></p>
 </div>
