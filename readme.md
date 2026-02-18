@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="image/aboutsMe.png" width="500" alt="About Me" />
-
-</div>
+<img src="image/aboutsMe.png" width="500" alt="About Me" style="border-radius: 20px;" />
 
 - <div> 🇹🇭 Stuedent From Thailand </div>
 
