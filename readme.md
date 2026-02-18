@@ -11,3 +11,13 @@
 - **I am currently learning** <img src="/image/swift.png" width="16" alt="swift"/> Swift and <img src="/image/julia.png" width="16" alt="julia"/> Julia
 
 <img src="image/repository.png" width="500" alt="repository" style="border-radius: 20px; margin-left: 10px;" />
+
+- 📖 [***kirobotdev/fsk-lang***](https://github.com/kirobotdev/fsk-lang) <br/>
+  FSK is a programming language that is compiled to WebAssembly.
+- 📚 [***kirobotdev/gemini-cli***](https://github.com/kirobotdev/gemini-cli) <br/>
+  A fixed gemini cli improve faster response web interface add more feature
+
+# Discord
+<a href="https://discord.com/users/1356430365774053448">
+  <img src="https://lanyard.cnrad.dev/api/1356430365774053448" alt="Discord Status" style="border-radius: 10px;" />
+</a>
