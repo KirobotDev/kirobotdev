@@ -25,7 +25,7 @@
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=kirobotdev/fsk-lang,kirobotdev/gemini-cli&type=date&legend=top-left)](https://www.star-history.com/
-#kirobotdev/fsk-lang&kirobotdev/gemini-cli&type=date&legend=top-left)
+#kirobotdev/fsk-lang&kirobotdev/gemini-cli&type=date&legend=top-left),
 
 ## Commits
 
