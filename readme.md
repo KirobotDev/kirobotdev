@@ -43,9 +43,8 @@
 
 <br/>
 
-<h2 align="center">🎧 Vibe du moment</h2>
+<h2 align="center">🎧 Vibe of the moment</h2>
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=316oczm3bygnyhnl4yrz5zeb2sd4&count=1&unique=true" width="400" alt="Spotify Recently Played" />
   <br/>
-  <p><b>Check my recently played on Spotify</b></p>
 </div>
