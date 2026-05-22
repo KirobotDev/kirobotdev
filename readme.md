@@ -10,7 +10,7 @@
 
 - **I understand and read very well** <img src="/image/cobole.png" width="16" alt="cobole"/> Cobole, <img src="/image/gd.png" width="16" alt="gd"/>GODOT, <img src="image/factor.png" width="30" alt="factor"/>Factor
 
-- **I am currently learning** <img src="/image/swift.png" width="16" alt="swift"/> Swift and <img src="/image/julia.png" width="16" alt="julia"/> Julia
+- **I am currently learning** <img src="/image/swift.png" width="16" alt="swift"/> Swift, <img src="/image/julia.png" width="16" alt="julia"/> Julia and <img src="/image/flask.png" width="16" alt="flask"/> Flask
 
 <img src="image/repository.png" width="500" alt="repository" style="border-radius: 20px; margin-left: 10px;" />
 
