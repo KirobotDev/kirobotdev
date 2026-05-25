@@ -1,5 +1,5 @@
 <img align="right" src="image/side_panel.gif" alt="Side Panel" />
-<img src="image/aboutsMe.png" width="500" alt="About Me" style="border-radius: 20px; margin-left: 10px;" />
+<img src="https://i.postimg.cc/8PRj4WXY/image.png" width="500" alt="About Me" style="border-radius: 20px; margin-left: 10px;" />
 
 
 - 🇹🇭 Stuedent From Thailand
@@ -11,7 +11,7 @@
 - **I understand and read very well** <img src="/image/cobole.png" width="16" alt="cobole"/> Cobole, <img src="/image/gd.png" width="16" alt="gd"/>GODOT, <img src="image/factor.png" width="30" alt="factor"/>Factor
 
 - **I am currently learning** <img src="/image/swift.png" width="16" alt="swift"/> Swift, <img src="/image/julia.png" width="16" alt="julia"/> Julia and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="16" alt="flask"/> Flask
-<img src="image/repository.png" width="500" alt="repository" style="border-radius: 20px; margin-left: 10px;" />
+<img src="https://i.postimg.cc/NMZ5Jxcr/image.png" width="500" alt="repository" style="border-radius: 20px; margin-left: 10px;" />
 
 - 📖 [***kirobotdev/fsk-lang***](https://github.com/kirobotdev/fsk-lang) <br/>
   FSK is a programming language that is compiled to WebAssembly.
