@@ -1,4 +1,4 @@
-<img align="right" src="image/side_panel.gif" alt="Side Panel" />
+<img align="right" src="https://i.postimg.cc/NG4J5BHy/image.png" alt="Side Panel" />
 <img src="https://i.postimg.cc/8PRj4WXY/image.png" width="500" alt="About Me" style="border-radius: 20px; margin-left: 10px;" />
 
 
