@@ -15,8 +15,8 @@
 
 - 📖 [***kirobotdev/fsk-lang***](https://github.com/kirobotdev/fsk-lang) <br/>
   FSK is a programming language that is compiled to WebAssembly.
-- 📚 [***kirobotdev/Safeness-mirore-sb***](https://github.com/KirobotDev/Safeness-mirore-sb) <br/>
-  a version of djs-v13 improve anti rate limiting updated and more...
+- 🤖 [***kirobotdev/Ai-Algorithme***](https://github.com/KirobotDev/Ai-Algorithme) <br/>
+  Learn the gpt algorithm & exploited
 
 <sub> ***Readme*** **inspired by aiko-chan-ai** <a href="https://github.com/aiko-chan-ai">aiko-chan-ai</a> </sub>
 
