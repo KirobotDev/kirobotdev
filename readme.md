@@ -6,7 +6,10 @@
 
 - ≧◡≦ But my hobbies are mainly Playing Rivals and Honkai: Star Rail <img src="image/Honkai.png" width="20" alt="Honkai"/>
 
-- **I am mainly skilled** <img src="image/ts.png" width="16" alt="Typescript"/> Typescript, <img src="image/cpp.png" width="16" alt="cpp" style="position: relative; top: 10px;"/> C++, <img src="/image/java.png" width="20" alt="java"/> Java, <img src="/image/go.png" width="16" alt="go"> go
+**I am mainly skilled**
+<img src="https://cdn.simpleicons.org/python/3776AB" width="16" alt="Python"/> Python,
+<img src="https://cdn.simpleicons.org/lua/2C2D72" width="16" alt="Lua"/> Lua,
+<img src="https://cdn.simpleicons.org/go/00ADD8" width="16" alt="Go"/> Go
 
 - **I understand and read very well** <img src="/image/cobole.png" width="16" alt="cobole"/> Cobole, <img src="/image/gd.png" width="16" alt="gd"/>GODOT, <img src="image/factor.png" width="30" alt="factor"/>Factor
 
