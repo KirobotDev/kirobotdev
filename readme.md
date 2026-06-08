@@ -6,7 +6,7 @@
 
 - ≧◡≦ But my hobbies are mainly Playing Rivals and Honkai: Star Rail <img src="image/Honkai.png" width="20" alt="Honkai"/>
 
-**I am mainly skilled**
+- **I am mainly skilled**
 <img src="https://cdn.simpleicons.org/python/3776AB" width="16" alt="Python"/> Python,
 <img src="https://cdn.simpleicons.org/lua/2C2D72" width="16" alt="Lua"/> Lua,
 <img src="https://cdn.simpleicons.org/go/00ADD8" width="16" alt="Go"/> Go
