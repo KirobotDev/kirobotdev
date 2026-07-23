@@ -1,22 +1,35 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=I'm+xql.dev+%F0%9F%92%8E)](https://git.io/typing-svg)
+<img align="right" src="https://i.postimg.cc/tJTh10KM/telechargement-(7).png" alt="Side Panel" />
+<img src="https://i.postimg.cc/8PRj4WXY/image.png" width="500" alt="About Me" style="border-radius: 20px; margin-left: 10px;" />
 
-🧽 About Me :
----
-[💻・Linux Users](https://www.debian.org/)
 
-🍜 Socials :
----
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kirosb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram/xql.dev) [![](https://visitcount.itsvg.in/api?id=senju-sh&icon=0&color=0)](https://kirosb.fr/) ![](https://komarev.com/ghpvc/?username=kirobotdev&color=blueviolet&style=for-the-badge&label=Profile+Views)
+- 🇹🇭 Stuedent From Thailand
 
-💻 Tech Stack :
----
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+- ≧◡≦ But my hobbies are mainly Playing Rivals and Honkai: Star Rail <img src="image/Honkai.png" width="20" alt="Honkai"/>
 
-# 🔎 GitHub Stats :
----
-![](https://github-readme-stats.vercel.app/api?username=KirobotDev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KirobotDev&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KirobotDev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirobotdev&theme=github_dark)
+- **I am mainly skilled**
+<img src="https://cdn.simpleicons.org/python/3776AB" width="16" alt="Python"/> Python,
+<img src="https://cdn.simpleicons.org/lua/2C2D72" width="16" alt="Lua"/> Lua,
+<img src="https://cdn.simpleicons.org/go/00ADD8" width="16" alt="Go"/> Go
 
----
+- **I understand and read very well** <img src="/image/cobole.png" width="16" alt="cobole"/> Cobole, <img src="/image/gd.png" width="16" alt="gd"/>GODOT, <img src="image/factor.png" width="30" alt="factor"/>Factor
+
+- **I am currently learning** <img src="/image/swift.png" width="16" alt="swift"/> Swift, <img src="/image/julia.png" width="16" alt="julia"/> Julia and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="16" alt="flask"/> Flask
+<img src="https://i.postimg.cc/NMZ5Jxcr/image.png" width="500" alt="repository" style="border-radius: 20px; margin-left: 10px;" />
+
+- 📖 [***kirobotdev/fsk-lang***](https://github.com/kirobotdev/fsk-lang) <br/>
+  FSK is a programming language that is compiled to WebAssembly.
+- 🤖 [***kirobotdev/Ai-Algorithme***](https://github.com/KirobotDev/Ai-Algorithme) <br/>
+  Learn the gpt algorithm & exploited
+
+<sub> ***Readme*** **inspired by aiko-chan-ai** <a href="https://github.com/aiko-chan-ai">aiko-chan-ai</a> </sub>
+
+# Discord
+<a href="https://discord.com/users/1356430365774053448"><img src="https://lanyard.cnrad.dev/api/1356430365774053448?bg=1A1C1F&borderRadius=10px&theme=dark&hideActivity=true&showDisplayName=true" /></a>
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kirobotdev/fsk-lang,kirobotdev/gemini-cli&type=date&legend=top-left)](https://www.star-history.com/#kirobotdev/fsk-lang&kirobotdev/gemini-cli&type=date&legend=top-left)
+
+## Commits
+
+![github contribution grid snake animation](https://github.com/KirobotDev/Read/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/KirobotDev/Read/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)

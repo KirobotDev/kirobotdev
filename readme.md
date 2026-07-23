@@ -1,35 +1,160 @@
-<img align="right" src="https://i.postimg.cc/tJTh10KM/telechargement-(7).png" alt="Side Panel" />
-<img src="https://i.postimg.cc/8PRj4WXY/image.png" width="500" alt="About Me" style="border-radius: 20px; margin-left: 10px;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=200&section=header&text=xql.dev&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" width="100%" />
 
+<div align="center">
 
-- 🇹🇭 Stuedent From Thailand
+<img src="image/me.png" width="400" style="border-radius:10px;"/>
 
-- ≧◡≦ But my hobbies are mainly Playing Rivals and Honkai: Star Rail <img src="image/Honkai.png" width="20" alt="Honkai"/>
+<h2>
+xql.dev
+</h2>
 
-- **I am mainly skilled**
-<img src="https://cdn.simpleicons.org/python/3776AB" width="16" alt="Python"/> Python,
-<img src="https://cdn.simpleicons.org/lua/2C2D72" width="16" alt="Lua"/> Lua,
-<img src="https://cdn.simpleicons.org/go/00ADD8" width="16" alt="Go"/> Go
+<p>
+Full Stack Developer • Cybersecurity Enthusiast • System Programmer
+</p>
 
-- **I understand and read very well** <img src="/image/cobole.png" width="16" alt="cobole"/> Cobole, <img src="/image/gd.png" width="16" alt="gd"/>GODOT, <img src="image/factor.png" width="30" alt="factor"/>Factor
+</div>
 
-- **I am currently learning** <img src="/image/swift.png" width="16" alt="swift"/> Swift, <img src="/image/julia.png" width="16" alt="julia"/> Julia and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="16" alt="flask"/> Flask
-<img src="https://i.postimg.cc/NMZ5Jxcr/image.png" width="500" alt="repository" style="border-radius: 20px; margin-left: 10px;" />
+<br>
 
-- 📖 [***kirobotdev/fsk-lang***](https://github.com/kirobotdev/fsk-lang) <br/>
-  FSK is a programming language that is compiled to WebAssembly.
-- 🤖 [***kirobotdev/Ai-Algorithme***](https://github.com/KirobotDev/Ai-Algorithme) <br/>
-  Learn the gpt algorithm & exploited
+---
 
-<sub> ***Readme*** **inspired by aiko-chan-ai** <a href="https://github.com/aiko-chan-ai">aiko-chan-ai</a> </sub>
+<h2 align="center">Projects</h2>
 
-# Discord
-<a href="https://discord.com/users/1356430365774053448"><img src="https://lanyard.cnrad.dev/api/1356430365774053448?bg=1A1C1F&borderRadius=10px&theme=dark&hideActivity=true&showDisplayName=true" /></a>
+<div align="center">
 
-# Star History
+🐺 **[WHITEWOLF-TOOLS](https://github.com/python-loving/WHITEWOLF-TOOLS)**  
+Security & OSINT CLI toolkit
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kirobotdev/fsk-lang,kirobotdev/gemini-cli&type=date&legend=top-left)](https://www.star-history.com/#kirobotdev/fsk-lang&kirobotdev/gemini-cli&type=date&legend=top-left)
+<br>
 
-## Commits
+⚡ **[WinFetch](https://github.com/kirobotdev/WinFetch)**  
+Windows system information fetch written in Python
 
-![github contribution grid snake animation](https://github.com/KirobotDev/Read/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/KirobotDev/Read/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+</div>
+
+<br>
+
+---
+
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=rust" />
+<img src="https://skillicons.dev/icons?i=lua" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">Operating Systems</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=debian" />
+<img src="https://skillicons.dev/icons?i=kali" />
+<img src="https://skillicons.dev/icons?i=windows" />
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">Tools</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">Cloud & Services</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cloudflare" />
+<img src="https://skillicons.dev/icons?i=googlecloud" />
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=supabase" />
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">Focus</h2>
+
+<div align="center">
+
+Full Stack Development  
+System Programming  
+Cybersecurity & OSINT  
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">Socials</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=gitlab" />
+<img src="https://skillicons.dev/icons?i=discord" />
+<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=twitter" />
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kirobotdev&theme=radical" />
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">Experience</h2>
+
+<div align="center">
+
+Developer focused on Full Stack, Systems and Cybersecurity.
+
+Building projects around software development, automation and security.
+
+</div>
+
+<br>
+
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
