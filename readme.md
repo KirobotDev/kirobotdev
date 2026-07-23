@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=200&section=header&text=xql.dev&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=200&section=header&text=xql.dev&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developper&descAlignY=58&animation=fadeIn" width="100%" />
 
 <div align="center">
 
