@@ -81,7 +81,7 @@ Windows system information fetch written in Python
 <img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://skillicons.dev/icons?i=nvim" />
+<img src="https://skillicons.dev/icons?i=vim" />
 
 </div>
 
