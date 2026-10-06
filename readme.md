@@ -42,7 +42,7 @@ Windows system information fetch written in Python
 
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=asm" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" />
 <img src="https://skillicons.dev/icons?i=rust" />
 <img src="https://skillicons.dev/icons?i=lua" />
 <img src="https://skillicons.dev/icons?i=html" />
